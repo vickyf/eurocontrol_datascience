@@ -1,0 +1,1 @@
+pd.crosstab(cdystonia.sex, cdystonia.site)

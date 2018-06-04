@@ -1,0 +1,1 @@
+X_test[(y_pred_class==1) & (y_test==0)]

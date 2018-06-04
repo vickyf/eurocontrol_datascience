@@ -1,0 +1,1 @@
+%history -n 1-5 -f log.py

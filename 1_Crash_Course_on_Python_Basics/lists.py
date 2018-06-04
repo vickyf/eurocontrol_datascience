@@ -1,0 +1,17 @@
+lst = [1,2,3,4,5,6,7,8,9]
+print(lst)
+lst.append(10)
+lst.insert(4,11)
+lst.insert(0,6)
+print(lst)
+a=lst.pop()
+b=lst.pop(1)
+del lst[2:4]
+lst.remove(8)
+print(lst)
+print(lst.count(6))
+lst.sort()
+lst.reverse()
+print(lst)
+print(a)
+print(b)

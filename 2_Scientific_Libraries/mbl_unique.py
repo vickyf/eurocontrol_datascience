@@ -1,0 +1,1 @@
+mb1.index.is_unique

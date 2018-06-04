@@ -1,0 +1,1 @@
+cdystonia.pivot(index='patient', columns='obs', values='twstrs').head()

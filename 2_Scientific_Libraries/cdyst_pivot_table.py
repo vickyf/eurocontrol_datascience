@@ -1,0 +1,1 @@
+cdystonia.pivot_table(index=['site', 'treat'], columns='week', values='twstrs', aggfunc=max).head(20)

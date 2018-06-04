@@ -1,0 +1,1 @@
+pd.get_dummies(vessels5.type).head(10)

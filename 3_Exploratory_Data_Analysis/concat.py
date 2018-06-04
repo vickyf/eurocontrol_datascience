@@ -1,0 +1,1 @@
+pd.concat([mb1, mb2], axis=1).shape

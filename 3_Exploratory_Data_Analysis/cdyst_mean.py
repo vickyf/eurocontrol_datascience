@@ -1,0 +1,1 @@
+cdystonia_grouped.agg(np.mean).head()

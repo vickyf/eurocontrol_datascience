@@ -1,0 +1,1 @@
+[v for v in vessels.type.unique() if v.find('/')==-1]

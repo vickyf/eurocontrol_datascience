@@ -1,0 +1,1 @@
+cdystonia.groupby(['week','site']).mean().head()

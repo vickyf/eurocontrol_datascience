@@ -1,0 +1,4 @@
+%%bash
+date
+echo "My current directory is:" $PWD
+# Don't forget to remove the first line as %%bash needs to be on the first line of the cell!!
